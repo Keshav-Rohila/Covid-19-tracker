@@ -1,0 +1,10 @@
+.line-graph{
+    max-width: 330px;
+    min-height: 170px;
+}
+
+@media (max-width: 950px ){
+    .line-graph{
+        max-width: 900px;
+    }
+}

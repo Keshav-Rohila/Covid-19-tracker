@@ -1,0 +1,38 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.header__titleCovid19 {
+    color: #a30101;
+    font-size: 35px;
+    padding-left: 10px;
+}
+
+.header__virusImage{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+}
+
+.header__dropdown {
+    background-color: white;
+    height: 35px;
+}
+
+.img1 {
+    left: 90px;
+    opacity: 50%;
+}
+
+.img2 {
+    left: 70px;
+    top: 25px;
+    opacity: 70%;
+}
+
+.img3 {
+    opacity: 80%;
+}

@@ -1,0 +1,41 @@
+#map {
+    height: 450px;
+    border-radius: 15px;
+    box-shadow: 0 0 30px -2px #35343480; 
+}
+
+.map__container {
+    height: 450px;
+    border-radius: 15px;
+}
+
+
+.map__infoFlag img {
+    width: 100px;
+    border-radius: 5px;
+}
+
+.map__infoFlag{
+    height: 80px;
+    width: 100%;
+    background-size: cover;
+    border-radius: 8px;
+    box-shadow: 0 0 20px -2px #131313a6;
+}
+
+.map__infoName{
+    font-size: 20px;
+    font-weight: bold;
+    color: #555;
+}
+
+.map__infoContainer{
+    width: 150px;
+}
+
+.map__infoConfirmed,
+.map__infoRecovered,
+.map__infoDeaths {
+    font-size: 16px;
+    margin-top: 5px;
+}
